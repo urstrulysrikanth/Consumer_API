@@ -1,2 +1,2 @@
-# Consumer_API
-Sample POC API
+# Consumer
+Sample POC
